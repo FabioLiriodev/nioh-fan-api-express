@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "William Adams",
+    "level": 100,
+    "life": 3200,
+    "ki": 140,
+    "attributes": {
+      "strength": 25,
+      "essence": 20,
+      "dexterity": 15,
+      "magic": 10,
+      "spirit": 30
+    }
+  },
+  {
+    "id": 2,
+    "name": "Okatsu",
+    "level": 95,
+    "life": 2400,
+    "ki": 180,
+    "attributes": {
+      "strength": 10,
+      "essence": 15,
+      "dexterity": 45,
+      "magic": 10,
+      "spirit": 15
+    }
+  },
+  {
+    "id": 3,
+    "name": "Hattori Hanzo",
+    "level": 98,
+    "life": 2600,
+    "ki": 170,
+    "attributes": {
+      "strength": 15,
+      "essence": 12,
+      "dexterity": 50,
+      "magic": 15,
+      "spirit": 10
+    }
+  },
+  {
+    "id": 4,
+    "name": "Fuku",
+    "level": 90,
+    "life": 1900,
+    "ki": 130,
+    "attributes": {
+      "strength": 5,
+      "essence": 10,
+      "dexterity": 10,
+      "magic": 55,
+      "spirit": 20
+    }
+  },
+  {
+    "id": 5,
+    "name": "Honda Tadakatsu",
+    "level": 110,
+    "life": 4500,
+    "ki": 120,
+    "attributes": {
+      "strength": 60,
+      "essence": 35,
+      "dexterity": 5,
+      "magic": 5,
+      "spirit": 15
+    }
+  },
+  {
+    "id": 6,
+    "name": "Ii Naomasa",
+    "level": 105,
+    "life": 3100,
+    "ki": 150,
+    "attributes": {
+      "strength": 40,
+      "essence": 30,
+      "dexterity": 10,
+      "magic": 5,
+      "spirit": 25
+    }
+  },
+  {
+    "id": 7,
+    "name": "Oda Nobunaga",
+    "level": 120,
+    "life": 4000,
+    "ki": 160,
+    "attributes": {
+      "strength": 45,
+      "essence": 40,
+      "dexterity": 20,
+      "magic": 35,
+      "spirit": 50
+    }
+  },
+  {
+    "id": 8,
+    "name": "Tenkai",
+    "level": 92,
+    "life": 2100,
+    "ki": 120,
+    "attributes": {
+      "strength": 15,
+      "essence": 20,
+      "dexterity": 10,
+      "magic": 40,
+      "spirit": 45
+    }
+  },
+  {
+    "id": 9,
+    "name": "Edward Kelley",
+    "level": 115,
+    "life": 3500,
+    "ki": 150,
+    "attributes": {
+      "strength": 20,
+      "essence": 20,
+      "dexterity": 15,
+      "magic": 60,
+      "spirit": 40
+    }
+  },
+  {
+    "id": 10,
+    "name": "Tokugawa Ieyasu",
+    "level": 85,
+    "life": 2800,
+    "ki": 110,
+    "attributes": {
+      "strength": 15,
+      "essence": 50,
+      "dexterity": 10,
+      "magic": 10,
+      "spirit": 35
+    }
+  }
+]

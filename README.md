@@ -148,13 +148,13 @@ Durante o desenvolvimento foram utilizados os seguintes conceitos:
 1️⃣ Clone o repositório:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone <https://github.com/FabioLiriodev/nioh-fan-api-express>
 
 ```
 2️⃣ Acesse a pasta do projeto:
 
 ```bash
-cd nioh-fan-api
+cd nioh-fan-api-express
 
 ```
 
@@ -175,7 +175,7 @@ npm run start:dev
 ou
 
 ```bash
-node server.js
+node dist server.js
 
 ```
 
